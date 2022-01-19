@@ -1,4 +1,4 @@
-use mavenmovies;
+# MySql Project on using MavenMovies database.
 
 /*
 1.	We will need a list of all staff members, including their first and last names, 
